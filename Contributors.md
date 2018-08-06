@@ -64,6 +64,7 @@
 - Rubén Aciego
 - Optimus-pri
 - [Marco Cucchi](https://github.com/marco-cucchi)
+- [Per Filip] (https://github.com/PerFilip)
 - [Denis Rossi](https://github.com/denisrossi)
 - [Oliver Escoto](https://github.com/oliverJurgen)
 - [Richard Wang](https://github.com/richardlwang)
